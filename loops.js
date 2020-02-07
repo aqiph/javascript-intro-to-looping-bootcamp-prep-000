@@ -21,9 +21,9 @@ function whileLoop(num){
 }
 
 //doWhileLoop
-var i = 0
+var i = 0;
 function incrementVariable(){
-  i++;
+  i = i+1;
   return i;
 }
 
