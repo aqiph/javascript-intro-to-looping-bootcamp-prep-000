@@ -27,11 +27,10 @@ function incrementVariable(){
   return i;
 }
 
-function doWhileLoop(num){
+function doWhileLoop(n){
   do {
     console.log('I run once regardless.')
-  } while (incrementVariable() < num);
+  } while (incrementVariable() < n);
 }
 
-doWhileLoop(3)
 
