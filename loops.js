@@ -33,5 +33,5 @@ function doWhileLoop(num){
   } while (incrementVariable() < num);
 }
 
-doWhileLoop(10)
+doWhileLoop(3)
 
